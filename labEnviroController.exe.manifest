@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="labEnviroController.exe" size="19936">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="labEnviroController.exe" size="20448">
       <assemblyIdentity name="labEnviroController" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LaGDhVDp8mhH2bVenOHS0uzi2e90Yt8qYQJhmV3z9+E=</dsig:DigestValue>
+        <dsig:DigestValue>Xy3ZePOweO0ZUWiPBHjWh3xx/fMQU6hT23L4tur+16o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
